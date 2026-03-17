@@ -1,0 +1,7 @@
+header{
+    color: orangered;
+    display: flex;
+    text-align: center;
+    border: orangered 1px solid;
+    border-radius: 30px;
+}
